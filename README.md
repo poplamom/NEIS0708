@@ -1,2 +1,7 @@
 # NEIS7078
-Cisco Network Report
+This is assignment for Language Programming
+    Cisco Network Backup and Report
+    
+Requirement
+    python 2.6.6
+    Exscript
